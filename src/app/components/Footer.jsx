@@ -7,7 +7,7 @@ function Footer() {
       <img
         src="https://demo.cocobasic.com/opta-html/images/footer_logo_@x2.png"
         className="mb-12 w-16 h-16"
-        alt=""
+        alt="Logo Footer"
       />
       <p className="mb-4">
         &copy; {new Date().getFullYear()} Desarollado por{" "}
