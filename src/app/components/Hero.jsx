@@ -4,7 +4,7 @@ import React from "react";
 function page() {
   return (
     <div className="flex flex-col justify-start items-center py-16 ">
-      <img src="/logo.png" alt="Logo principal" />
+      <img src="/logo.png" alt="Logo principal" className="w-32 h-32" />
       <h1 className="mt-12 text-[47px] max-w-3xl text-center">
         Art studio from{" "}
         <strong className="text-primary font-light">New York</strong> passionate
